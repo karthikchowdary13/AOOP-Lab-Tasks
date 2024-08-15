@@ -5,7 +5,6 @@ package Single;
 		        
 		        Logger logger = Logger.getInstance();
 
-		        // Log messages
 		        logger.log("Application started");
 		       
 		    }
